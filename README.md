@@ -17,4 +17,4 @@ The next steps for Candy Tracker are adding interactivity within users to encour
 - javascript
 
 ## Try it out
-https://dayanahudson.github.io/CandyTracker-HackNC/src/index.html
+https://dayanahudson.github.io/CandyTracker/src/index.html
