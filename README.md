@@ -9,12 +9,12 @@ Candy Tracker shows quality of candy for each house through user-generated data.
 The next steps for Candy Tracker are adding interactivity within users to encourage them to visit as many houses as possible, enabling children to locate their parents, and optimization of current systems.
 
 ## Built With
-- esri
-- ionic
-- gimp
-- html
-- css
-- javascript
+- Esri
+- Ionic
+- GIMP
+- HTML
+- CSS
+- JavaScript
 
 ## Try it out
 https://dayanahudson.github.io/CandyTracker/src/index.html
